@@ -1,6 +1,10 @@
 # Real-Time-Competitor-Strategy-Tracker-for-E-Commerce
 
 ## Project Overview
+![WhatsApp Image 2025-01-28 at 18 57 55_a476f785](https://github.com/user-attachments/assets/2625cd24-7ff9-4531-8bb6-e2cf640e4786)
+![WhatsApp Image 2025-01-28 at 18 58 11_a10e35fb](https://github.com/user-attachments/assets/941818ff-e0ef-4484-8eba-883a74a37568)
+
+![WhatsApp Image 2025-01-28 at 18 58 47_f23dfd68](https://github.com/user-attachments/assets/4f59b05e-6cd1-4fff-b1ef-88c0570bdf73)
 
 
 
@@ -45,12 +49,12 @@ pip install -r requirements.txt
 1. Go to the [Slack API](https://api.slack.com/).
 2. Create a new app and enable Incoming Webhooks.
 3. Add a webhook to a channel and copy the generated URL.
-4. Add this URL to the `app.py` file.
+4. Add this URL to the `app1.py` file.
 
 ### 4. Run the Application
 Run the Streamlit app:
 ```bash
-streamlit run app.py
+streamlit run app1.py
 ```
 
 ---
@@ -82,6 +86,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 
-**Developer:** ALOK GUPTA  
-**Email:** alok.gupta.bnp@gmail.com  
+**Developer:** Sanjay Kumar N  
+**Email:** nsanjaykumarofficial@gmail.com  
 ---
