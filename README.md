@@ -1,10 +1,8 @@
 # Real-Time-Competitor-Strategy-Tracker-for-E-Commerce
 
 ## Project Overview
-![image](https://github.com/user-attachments/assets/ce580cf2-d7f4-495c-9fc8-dfdad63a2f3c)
 
 
-https://github.com/user-attachments/assets/f5d96e43-453a-4b04-86c5-562debb5ac84
 
 
 
