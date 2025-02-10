@@ -1,6 +1,8 @@
 # Real-Time-Competitor-Strategy-Tracker-for-E-Commerce
 
 ## Project Overview
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/48694572-4566-440c-96f1-084e72240ea9" />
+
 ![WhatsApp Image 2025-01-28 at 18 57 55_a476f785](https://github.com/user-attachments/assets/2625cd24-7ff9-4531-8bb6-e2cf640e4786)
 ![WhatsApp Image 2025-01-28 at 18 58 11_a10e35fb](https://github.com/user-attachments/assets/941818ff-e0ef-4484-8eba-883a74a37568)
 
